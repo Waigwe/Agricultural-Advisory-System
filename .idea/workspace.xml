@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63f78aa7-c5a6-42ec-9ab1-5307a12750cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/car5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/car5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/crop_breed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/fertilizer_amounts.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/fertilizer_types.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/google_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/greg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/irrigation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/irrigation_methods.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/irrigation_techniques.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/irrigaton_frequency.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/james.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/john.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/manure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/olivia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sam.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/soil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sophia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/steven.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/substitute_crops.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/weather.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/weather.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Calistoga-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ubuntu-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ubuntu-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ubuntu-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ubuntu-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ubuntu-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ubuntu-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ubuntu-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ubuntu-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/loginPage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/loginPage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/Home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/Home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/Recommendations.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/Recommendations.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/mainHome.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/mainHome.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/recommendations/crop_breeds.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/recommendations/crop_breeds.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/recommendations/fertilizer_amount.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/recommendations/fertilizer_amount.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/recommendations/fertilizer_types.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/recommendations/fertilizer_types.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/recommendations/irrigation_freq.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/recommendations/manure.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/recommendations/manure.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/recommendations/substitute_crops.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/recommendations/substitute_crops.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/weather/weather_forecast.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/weather/weather_forecast.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/weather/weather_today.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/weather/weather_today.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/weather/widgets/Weather.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/weather/widgets/Weather.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/weather/widgets/WeatherItem.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/weather/widgets/WeatherItem.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/welcomePage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/welcomePage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_S_Android_5" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1c0RjQT33gbbtAxaykzNwue6c29" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/build/app/outputs/apk/app.apk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build/app/outputs/apk/app.apk" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63f78aa7-c5a6-42ec-9ab1-5307a12750cc" name="Default Changelist" comment="" />
+      <created>1589663658262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589663658262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
