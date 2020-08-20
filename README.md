@@ -1,6 +1,6 @@
-# Flutter project
+# Flutter Project
 
-A Flutter project with animated bottom navigation bar with pages.
+An Agricultural Advisory System for small-scale farmers with an aim to improve yields.
 
 
 
